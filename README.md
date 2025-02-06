@@ -97,3 +97,5 @@ public class AccountTest {
     }
 }
 ```
+#UML Diagram: 
+![Blank diagram (1)](https://github.com/user-attachments/assets/d56de8e5-603c-403f-86b7-0f8f531bae92)
