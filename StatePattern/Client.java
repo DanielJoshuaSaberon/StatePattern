@@ -2,7 +2,7 @@ package StatePattern;
 
 import StatePattern.Context.AccountController;
 
-public class Client {
+public class AccountTest {
     public static void main(String[]args){
         AccountController account = new AccountController("22-13207-591", 1500.00);
 
