@@ -30,7 +30,7 @@ Implement the State pattern to improve code maintainability and flexibility.
    - Introduce a reference to the current `AccountState` object.
    - Delegate actions like `deposit()`, `withdraw()`, `activate()`, `suspend()`, and `close()` to the current state object through its corresponding methods.
 
-## Business Logic Rules
+## Logic 
 - **If the account is active:**
   - You can either suspend or close it.
 - **If the account is suspended:**
@@ -100,4 +100,5 @@ public class AccountTest {
 
 # UML Diagram: 
 
-![Blank diagram (1)](https://github.com/user-attachments/assets/d56de8e5-603c-403f-86b7-0f8f531bae92)
+
+![Blank diagram](https://github.com/user-attachments/assets/e8de2410-9237-4509-9cdf-907a4344af11)
